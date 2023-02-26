@@ -1,0 +1,13 @@
+.primer-titulo {
+    font-size: 8px !important;
+    background-color: black !important;
+    width: 20%;
+    color:white !important;
+    }
+
+    .titulos {
+        color: red !important;
+        background-color: pink !important;
+        max-width:10% !important;
+        font-size: 8px !important;
+    }

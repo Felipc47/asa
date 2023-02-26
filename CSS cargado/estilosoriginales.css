@@ -1,0 +1,618 @@
+/*Codigo Actual */
+@import url('http://fonts.cdnfonts.com/css/gotham');
+
+.titulos{
+    font-family: 'Gotham Book', sans-serif;
+    font-size: 24px;
+    color: #00468B;    
+}
+
+.subtitulos{
+    font-family: 'Gotham Book', sans-serif;
+    font-size: 20px;
+    color:#00BCE7
+}
+
+.textoGeneral{
+    font-family: 'Gotham Book', sans-serif;
+    font-size: 16px;
+    color: #74541D;    
+}
+
+.botonNaranja{
+    
+        background-color: #F78D39; 
+        border-radius: 12px;
+        color: white;
+        padding: 18px 32px;
+        text-align: center;
+        text-decoration: none;
+        display:flex;
+       justify-content: center;
+        font-size: 16px;
+        box-shadow: 0px 5px 10px 0px rgba(247, 109, 3, 0.453);
+    }
+
+.banner{
+    
+    text-align: center;
+    font-size: 40px;
+    background-color: #00BCE6;
+    padding-top: 30px;
+    height: 90px;
+    width: 100%;
+    color: #FFFFFF;
+    box-shadow: 0px 5px 10px 0px rgba(0, 189, 231, 0.27);
+}
+.boton {
+    background-color: #00468B; 
+    border-radius: 12px;
+    color: white;
+    padding: 18px 32px;
+    text-align: center;
+    text-decoration: none;
+    display:flex;
+   justify-content: center;
+    font-size: 16px;
+    box-shadow: 0px 5px 10px 0px rgba(7, 35, 64, 0.453);
+}
+/*
+.modulos{
+    
+    display:inline-block;
+    justify-content: center;
+}*/
+
+/*Codigo Actual */
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+.Container{
+margin : 0 auto;
+width: 393px;
+height: 210px;
+left: 56px;
+top: 251px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+
+.divisor{
+    position: absolute;
+    width: 150px;
+    height: 210px;
+    /* HumbleGold 1 */
+    
+    background: #06A685;
+    border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L1{
+    display: flex;
+    color:#FFFFFF; 
+    font-family: 'Gotham', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;    
+    margin-top: 50%;
+}
+
+.Texto1{
+    justify-content:flex-end;
+    font-family: 'Gotham', sans-serif;
+    position: relative;
+    word-wrap: inherit;
+    flex-direction: row;     
+    text-align: center ;
+    font-weight: 700;
+    width: 150px;
+    height: auto ;
+    left: 40%;
+    top: 43%;
+    color: #06A685 !important;
+}
+
+
+.Container2{
+        
+        margin : 0 auto;
+        width: 393px;
+        height: 210px;
+        left: 56px;
+        margin-top: 35px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        
+        }
+
+
+.divisor2{
+    position: absolute;
+    width: 150px;
+    height: 210px;
+    /* HumbleGold 1 */
+    
+    background: #06A685;
+    border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L2{
+    display: flex;
+    color:#FFFFFF; 
+    font-family: 'Gotham', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;    
+    margin-top: 50%;
+}
+
+.Texto2{
+    justify-content:flex-end;
+    font-family: 'Gotham', sans-serif;
+    position: relative;
+    flex-direction: row;     
+    text-align: center ;
+    font-weight: 700;
+    width: 150px;
+    height: auto;
+    left: 40%;
+    top: 48%;
+    color: #06A685;
+}
+
+
+
+.Container3{
+        
+    margin : 0 auto;
+    width: 393px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor3{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L3{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto3{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left: 40%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container4{
+        
+    margin : 0 auto;
+    width: 393px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor4{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L4{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto4{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left: 40%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container5{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor5{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L5{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto5{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left: 35%;
+top: 50%;
+color: #06A685;
+}
+
+.Container6{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor6{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L6{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto6{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container7{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor7{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L7{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto7{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
+
+.Container8{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor8{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L8{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto8{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container9{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor9{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L9{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto9{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container10{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor10{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L10{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto10{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
+
+
+.Container11{
+        
+    margin : 0 auto;
+    width: 450px;
+    height: 210px;
+    left: 56px;
+    margin-top: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    }
+
+
+.divisor11{
+position: absolute;
+width: 150px;
+height: 210px;
+/* HumbleGold 1 */
+
+background: #06A685;
+border-radius: 0px 0px 5.47409px 0px;
+}
+
+.L11{
+display: flex;
+color:#FFFFFF; 
+font-family: 'Gotham', sans-serif;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+text-align: center;
+letter-spacing: -0.02em;
+text-decoration-line: underline;    
+margin-top: 50%;
+}
+
+.Texto11{
+justify-content:flex-end;
+font-family: 'Gotham', sans-serif;
+position: relative;
+flex-direction: column;     
+text-align: center ;
+font-weight: 700;
+width: 150px;
+height: auto;
+left:35%;
+top: 50%;
+color: #06A685;
+}
